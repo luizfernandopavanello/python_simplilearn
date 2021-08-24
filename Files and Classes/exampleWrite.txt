@@ -1,0 +1,8 @@
+Example how to write and save files! Open, filename, method, than the .write with whatever we wanna write, data, and the close to finish right. 
+
+ → Some text
+ → Some text 1
+ → Some text 2
+ → Some text 3
+ → Some text 4
+ → Some text 5
